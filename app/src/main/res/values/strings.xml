@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Personal Portfolio</string>
+    <string name="welcome_to_my_first_application">Welcome to my first application</string>
+    <string name="c_c_java_kotlin_javascript_python_git">C | C++ | JAVA | KOTLIN | JAVASCRIPT | PYTHON | GIT</string>
+    <string name="skills_knowlegde_in"><![CDATA[Skills & Knowlegde in :]]></string>
+    <string name="a_passionate_student_who_loves_to_learn_about_new_tech_and_loves_to_explore_new_things">A Passionate Student who loves to learn about new tech and loves to explore new things.</string>
+    <string name="web_developer_android_developer_yt_content_creator">Web Developer | Android Developer | YT Content creator</string>
+    <string name="vivek_saha">Vivek Saha</string>
+    <string name="connect_with_me_by">Connect with me by</string>
+    <string name="webpage_portfolio">webpage portfolio</string>
+    <string name="click_here_to_view_web_portfolio">click here to view web portfolio</string>
+</resources>
