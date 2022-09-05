@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <string name="a_passionate_student_who_loves_to_learn_about_new_tech_and_loves_to_explore_new_things">A Passionate Student who loves to learn about new tech and loves to explore new things.</string>
+    <string name="c_c_java_kotlin_javascript_python_git">C | C++ | JAVA | KOTLIN | JAVASCRIPT | PYTHON | GIT</string>
+    <string name="click_here_to_view_web_portfolio">click here to view web portfolio</string>
+    <string name="connect_with_me_by">Connect with me by</string>
+    <string name="skills_knowlegde_in"><![CDATA[Skills & Knowlegde in :]]></string>
+    <string name="vivek_saha">Vivek Saha</string>
+    <string name="web_developer_android_developer_yt_content_creator">Web Developer | Android Developer | YT Content creator</string>
+    <string name="webpage_portfolio">webpage portfolio</string>
+    <style name="Theme.PersonalPortfolio" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/black</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>
